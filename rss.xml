@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MythClub]]></title>
         <description><![CDATA[MythClub]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mythclub/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 05:42:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 05:55:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mythclub/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[SLOB90X - The P90X Killer]]></title>
+            <description><![CDATA[<article><h1>SLOB90X - The P90X Killer</h1><p>P90X Workout Schedule Better Than SLOB90X? Why not try SLOB90X. Get your SLOB90X T-Shirt while they last. http://slob90x.com Free your P90X body! Get a real six pack!</p><img src="http://img.youtube.com/vi/videoseries/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=zlruuKa11RE&amp;list=PL9Wu7agpqDmkBrQkMnsJrKSaGgOQL-7dB</link>
+            <guid isPermaLink="false">32c01fdd-9936-4795-8744-90a34171cd3b</guid>
+            <pubDate>Sat, 23 Apr 2016 05:55:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c779b835-99a9-443b-9cbc-14579549e991.jpg">]]></description>
-            <link>undefinedmythclub/index.html</link>
+            <link>https://thegrid.ai/mythclub/mythclub/index.html</link>
             <guid isPermaLink="false">8deb3396-0530-4a90-9520-ec0f7fe35ac2</guid>
             <pubDate>Sat, 23 Apr 2016 05:40:15 GMT</pubDate>
         </item>
