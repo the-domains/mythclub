@@ -1,0 +1,28 @@
+name: MythClub
+favicon: null
+layout_spectrum: 0.2740524085238576
+typography_spectrum: 0.1250787889584899
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.20097484369762242
+  lightness: 0.5868160580284894
+  saturation: 0.19002957246266305
+  rhythmicContrast: 0.1805795207619667
+purpose: []
